@@ -68,7 +68,7 @@ Free study notes and the main student portal: <https://ad5253.github.io/isc>
 ## Repository layout
 
 ```
-ISC-Labs/
+iscexperimentlabs/
   index.html              landing page listing every lab
   physics/                12 lab files
   chemistry/              24 lab files
